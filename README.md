@@ -38,4 +38,4 @@ print(text_content)
 ```
 
 ## Sumber dan Lisensi
-Data ini diambil dari [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html) dan hanya untuk penggunaan riset. Harap mematuhi ketentuan yang berlaku.
+Data ini diambil dari [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html).
