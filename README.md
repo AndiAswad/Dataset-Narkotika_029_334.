@@ -35,7 +35,7 @@ def extract_text_from_pdf(file_path):
 # Contoh penggunaan
 text_content = extract_text_from_pdf("Nomor 17_Pid.Sus_2024_PN_Pal.pdf")
 print(text_content)
-
+```
 
 ## Sumber dan Lisensi
 Data ini diambil dari [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html) dan hanya untuk penggunaan riset. Harap mematuhi ketentuan yang berlaku.
